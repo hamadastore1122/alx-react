@@ -5,7 +5,7 @@
 * mohammed yahya abdelrahman shareef [hamadastore22@gmail.com]
 
 # Resources
-**  Read or watch:
+##  Read or watch:
 
 * React Official Website
 * Getting started with React
