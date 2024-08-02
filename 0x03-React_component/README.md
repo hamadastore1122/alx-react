@@ -1,2 +1,1 @@
-# 0x03-React_component repo
-
+# 0x03. React component repo
