@@ -1,8 +1,4 @@
 # 0x05. React inline styling
-:open_file_folder: Specializations - Web Stack programming ― React  
-:bust_in_silhouette: By Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
-:bookmark: animations | aphrodite | css | enzyme | inline styling | javascript | media queries | react | viewport
 
 ## Resources
 ### Read or watch:
@@ -33,5 +29,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 3. Responsive design
 * [x] 4. Animation
 
-## Software engineer
-[Javier Andrés Garzón Patarroyo](https://www.javierandresgp.com)
+## Auther 
+* mohammed yahya abdelrahman shareef  * gmail[hamadastore22@gmail.com]
