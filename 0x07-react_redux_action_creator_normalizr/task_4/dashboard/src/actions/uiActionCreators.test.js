@@ -14,7 +14,7 @@ import {
 
 describe('action creators', () => {
   it('login', () => {
-    const user = { email: 'account@domain.extension', password: 123456789 };
+    const user = { email: 'hamadastore22@gmail.com', password: store770030 };
     const data = { type: LOGIN, user };
     const result = login(user.email, user.password);
 
